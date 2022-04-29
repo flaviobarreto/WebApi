@@ -1,0 +1,145 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Gabriel\\Downloads\\Udemy\\ApiCatalogo\\ApiCatalogo\\ApiCatalogo\\ApiCatalogo.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Gabriel\\Downloads\\Udemy\\ApiCatalogo\\ApiCatalogo\\ApiCatalogo\\ApiCatalogo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gabriel\\Downloads\\Udemy\\ApiCatalogo\\ApiCatalogo\\ApiCatalogo\\ApiCatalogo.csproj",
+        "projectName": "ApiCatalogo",
+        "projectPath": "C:\\Users\\Gabriel\\Downloads\\Udemy\\ApiCatalogo\\ApiCatalogo\\ApiCatalogo\\ApiCatalogo.csproj",
+        "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gabriel\\Downloads\\Udemy\\ApiCatalogo\\ApiCatalogo\\ApiCatalogo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Loud.Technology.Plataform.Erp.GeneralManagement.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[1.0.15, )"
+            },
+            "Microsoft.AspNet.Identity.Core": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Microsoft.AspNet.WebApi.Core": {
+              "target": "Package",
+              "version": "[5.2.8, )"
+            },
+            "Microsoft.AspNetCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.0.0-preview9.19424.4, )"
+            },
+            "Microsoft.AspNetCore.WebUtilities": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.NetCore.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.3.2, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.0.0-rc1.final, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql.Design": {
+              "target": "Package",
+              "version": "[1.1.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            },
+            "Swashbuckle.Core": {
+              "target": "Package",
+              "version": "[5.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
